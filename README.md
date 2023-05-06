@@ -6,6 +6,6 @@ AI123 is an intelligent communication application that provides users with a smo
 
 Please do not enter personal information. We cannot guarantee that the generated content will not be offensive or dangerous. We are not responsible for any generated content.
 
-Android : ![AI123](https://play.google.com/store/apps/details?id=com.lv.chatgpt)
+Android : [AI123](https://play.google.com/store/apps/details?id=com.lv.chatgpt)
 
-IOS ： ![123](https://apps.apple.com/us/app/ai123/id6446168541)
+IOS ： [AI123](https://apps.apple.com/us/app/ai123/id6446168541)
